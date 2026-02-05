@@ -1,7 +1,6 @@
 ---
 name: composable-functions
 description: Create composable functions
-compatibility: opencode
 ---
 
 ## What I do
