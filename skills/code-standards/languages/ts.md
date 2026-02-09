@@ -24,6 +24,7 @@
 - Avoid `any`. Use `unknown` when the type is truly unknown, then narrow. 
 - Avoid type assertions (`as`). Prefer type guards or narrowing.
 - Use discriminated unions over optional fields when variants are mutually exclusive.
+- Prefer inferred types over explicit types.
 
 ## Imports
 
