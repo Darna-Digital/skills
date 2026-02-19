@@ -18,3 +18,7 @@ description: Enforce project code standards when writing code
 ## Supported frameworks 
 
 - **Tailwind**: See [frameworks/tailwind.md](frameworks/tailwind.md) for all rules
+
+## Supported templating languages
+
+- **JSX/TSX**: See [templating/jsx.md](templating/jsx.md) for all rules
